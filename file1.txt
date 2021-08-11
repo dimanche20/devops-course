@@ -1,3 +1,5 @@
 this is still the beginning of DevGit
 
 I am making a change now
+
+after committing I modified
